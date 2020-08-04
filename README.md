@@ -1,4 +1,4 @@
-# PombaServer
+# PombaServer v0.1
 Um exemplo minimalista de um servidor http utilizando nodejs, simples como uma pomba.
 
 <h1>ATENÇÃO</h1>
